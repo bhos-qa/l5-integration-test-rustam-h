@@ -32,4 +32,7 @@ jobs:
       run: cargo test --verbose
 ```
 
-After editing branch name from `main` to `feature/lab5`, I clicked commit new file.
+After editing branch name from `main` to `feature/lab5`, we copy the file and paste it into
+`.github/workflows/rust.yml` that we create by hand.
+
+

@@ -22,8 +22,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe8eb0e3-7b53-4ab3-9ee6-7525e71708d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/rust.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665341729339</updated>
-      <workItem from="1665341730721" duration="4754000" />
+      <workItem from="1665341730721" duration="5000000" />
     </task>
     <servers />
   </component>
